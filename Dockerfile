@@ -5,4 +5,4 @@ COPY index.html /usr/share/nginx/html/
 COPY style.css /usr/share/nginx/html/
 
 # Expose port 80 (port default Nginx)
-EXPOSE 8080
+EXPOSE 80
